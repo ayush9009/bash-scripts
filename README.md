@@ -1,2 +1,2 @@
 # bash-scripts
-# By ~Aayusharma
+# This is how we do bash-scripts
